@@ -1,0 +1,900 @@
+{
+    "modules" : {
+        "next_matches" : [],
+        "social" : {
+            "linkFb" : "https://www.facebook.com/ChelseaFC",
+            "linkIg" : "https://www.instagram.com/chelseafc/?hl=it",
+            "linkTw" : "https://twitter.com/chelseafc",
+            "linkYt" : "https://www.youtube.com/user/chelseafc"
+        },
+        "contacts" : {
+            "phone" : "0541 9042783645",
+            "mobile" : "3402146874",
+            "email" : "segreteria@chelsea.com"
+        },
+        "news" : [ 
+            {
+                "is_highlight" : true,
+                "is_draft" : false,
+                "title" : "Entra nel Club ora dai!",
+                "subtitle" : "Leggi la nostra storia",
+                "category" : "Eventi",
+                "cover_url" : "https://lh3.googleusercontent.com/3e1SuboGBbd2PwdOZW0OIttY8bLUCQGJQErj9ahYns-cF9e0YDlJZiZ6dpcmD9Skur11G1th0yjyXXo6Z4VoWA",
+                "author" : "Tommaso Di Maria",
+                "body" : "<h1 class=\"ql-align-justify\"><strong>BLUE IS THE COLOUR</strong></h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">“Blue is the colour, football is the game / We’re all together and winning is our aim / So cheer us on through the sun and rain / ‘Cos Chelsea, Chelsea is our name”. Chelsea è il loro nome, blu il loro colore, vincere il loro obbiettivo, e quest’anno hanno vinto la coppa più importante, quella che nessuna squadra londinese era riuscita a vincere prima. Per questo motivo gli concediamo l’onore dell’ultimo post dedicato a una squadra (ce ne sarà un altro, ma che raggrupperà tre squadre) del nostro viaggio londinese. Chelsea è un quartiere&nbsp;in&nbsp;di Londra, uno dei più belli, di quelli che appaiono nei film, e anche se lo stadio è geograficamente posto a Fulham, nel&nbsp;borough&nbsp;di Hammersmith &amp; Fulham, è in realtà sul confine tra questo e il&nbsp;borough&nbsp;di Kensington &amp; Chelsea dove ha appunto sede il quartiere da cui prende il nome la squadra. Ci si arriva comodamente via Tube, scendendo alla fermata di Fulham Broadway sulla District Line, appena fuori dalla stazione si svolta a sinistra e in pochi istanti compare Stamford Bridge nella sua bellezza color crema. Nei giorni delle partite l’ingresso in metropolitana per il ritorno è particolarmente difficoltoso, e bisogna stare attenti perchè spesso la polizia divide la fila in due, a seconda della direzione che si intende prendere; per chi va verso il centro, generalmente la fila è quella di destra, meglio saperlo prima per poi non dover rifare tutto come capitato a noi. L’atmosfera è comunque molto bella, ma questo è inutile dirlo visto che si parla di&nbsp;english football.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><img src=\"https://lh3.googleusercontent.com/b0FY0Y9IZyQ63ZczL_lANzsruMTJmdCcxlk9SSA5qtc1_46WmeEFgdrjCZDW0k-balY4iw_L7Z4e7JX85OuMtJY\" width=\"572\"></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Il Chelsea Football Club nasce nel 1905, ma è necessario un piccolo passo indietro. Nel 1896 infatti Henry “Gus” Mears, uomo d’affari e appassionato di calcio, comprò insieme al fratello Joseph Mears il terreno dello Stamford Bridge Athletics Ground: l’intento, come visto nel&nbsp;<a href=\"https://englishfootballstation.wordpress.com/2012/05/16/viaggio-calcistico-a-londra-fulham/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(25, 130, 209);\">pezzo dedicato al Fulham</a>, era quello di convincere i Cottagers a trasferirsi lì, a giocare in quell’impianto. Il Fulham rifiutò, gettando nello sconforto Mears, che fu sul punto di cedere il terreno alla Great Western Railway Company, la quale necessitava di un deposito di carbone. Solo l’insistenza di un collega di Mears, Frederick Parker, fece sì che “Gus” cambiò idea e, invece di accogliere il Fulham o vendere il terreno, fondò la propria squadra di calcio, che avrebbe appunto giocato a Stamford Bridge. Abituati come ormai siamo a squadre che cambiano innumerevoli impianti, siamo qui invece di fronte a un club che nasce addirittura dopo lo stadio, in funzione di esso. Il 10 Marzo 1905 al Rising Sun pub in Fulham Broadway (ora “The Butcher’s Hook”, per chi fosse interessato) venne così fondato il…e bisognava dare un nome a questa squadra; Fulham, il nome del quartiere, venne eliminato per ovvi motivi (esisteva già una squadra con quel nome), così come London FC, Kensington FC e Stamford Bridge FC. Si optò alla fine per il nome del quartiere adiacente, Chelsea appunto, da cui derivò anche il colore delle maglie, il blu del Visconte di Chelsea, Henry Cardogan. Stadio, squadra, maglie, in quest’ordine: tutto era stato sistemato, e tutto come lo conosciamo oggi (certo, lo stadio ha subito le ovvie modifiche).</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><a href=\"https://storage.googleapis.com/pepa-pubilc-images/prod/0a719cf0-8647-11eb-8040-dd03e82dfda8\" rel=\"noopener noreferrer\" target=\"_blank\">click su entrate.PNG</a></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><a href=\"https://storage.googleapis.com/pepa-pubilc-images/prod/c892d920-7296-11eb-aba0-45f182ccae49\" rel=\"noopener noreferrer\" target=\"_blank\">medical-examination-diagnosis-concept_74855-7616.jpg</a></p><p class=\"ql-align-justify\"><a href=\"https://prod-pepa.goleeapi.dev/api/files/serve/prod/d28d0450-7296-11eb-983f-f5604867a81f\" rel=\"noopener noreferrer\" target=\"_blank\">MATTEO-COLLINA-1410491725.pdf</a></p>",
+                "slug" : "entra-nel-club-ora-dai",
+                "publish_date" : {
+                    "DDMMYYYY" : "24/11/2020",
+                    "ddddDDMMMMYYYY" : "martedì, 24 novembre 2020"
+                },
+                "prev" : null,
+                "next" : "match-up-chelsea-tottneham"
+            }, 
+            {
+                "is_highlight" : false,
+                "is_draft" : false,
+                "title" : "Match up! Chelsea - Tottneham",
+                "subtitle" : "Scopri tutti gli insight",
+                "category" : "Eventi",
+                "cover_url" : "https://lh3.googleusercontent.com/eWg-NrZRvn-Gqbobbul_R8UZfdMAC_slcOsF1oAysKpoQnIlJFec5BVqn52abE6t1MBRS3_cFNooowhhVEW4JYq5",
+                "author" : null,
+                "body" : "<h2><strong>Analisi Match </strong></h2><p><br></p><p>L’ultima contro la prima, è questo lo scenario della sfida Rennes-Chelsea. Il match è valido per il quarto turno del Gruppo E della Champions League.</p><p>RENNES-CHELSEA: ANALISI</p><p><br></p><p><br></p><p>Il Rennes in questa competizione non è riuscito ad ottenere una vittoria. Ha solo ottenuto un pareggio nel primo match disputato contro il Krasnodar nel primo incontro giocato in casa.</p><p><br></p><p><strong>In campionato,&nbsp;la formazione francese è reduce dalla sconfitta ottenuta in casa contro il Bordeaux. Uno 0-1 che ha fatto scivolare la squadra al settimo posto con 18 punti.</strong></p><p><br></p><p><img src=\"https://lh3.googleusercontent.com/FELQhJX3TRzSL3UriC_UXZbPEsOmCfFWD6FwvTh1ZKzd09F5z7_McgInDg64UD2qOcWprxxNKF1fIdq0ZLv0Dkgd\" width=\"554\"></p><p><br></p><p><br></p><p>Il Chelsea, invece, ha ottenuto due vittorie ed un pareggio in questa edizione della Champions League. Il pareggio è stato costruito nel match giocato in casa contro il Siviglia (0-0).</p><p><br></p><p><br></p><p>In campionato è al terzo posto con 18 punti, a meno due dalla coppia di testa Liverpool, Tottenham.</p><p>PRONOSTICO</p><p><br></p><p><br></p><p>Sarà una gara indirizzata a favore degli ospiti. Un&nbsp;<strong>2</strong>&nbsp;condito da&nbsp;<strong>Over 2.5</strong>.</p>",
+                "slug" : "match-up-chelsea-tottneham",
+                "publish_date" : {
+                    "DDMMYYYY" : "24/11/2020",
+                    "ddddDDMMMMYYYY" : "martedì, 24 novembre 2020"
+                },
+                "prev" : "entra-nel-club-ora-dai",
+                "next" : "domani-il-grande-match-chelsea-liverpool"
+            }, 
+            {
+                "is_highlight" : false,
+                "is_draft" : false,
+                "title" : "Domani il grande Match Chelsea - Liverpool",
+                "subtitle" : "Non perdere neanche un minuto!",
+                "category" : "Società",
+                "cover_url" : "https://lh3.googleusercontent.com/ccIownUYPsKLVJhYNsoa6bihmKh_bnhyzUxIsBmt2ySYRtZeUZ5i9ud-GWmUjjOH_AqAJ5dmOTLy00Sa-SJP5g",
+                "author" : "Phil Sprouse",
+                "body" : "<h1><strong>Chelsea Football Club </strong></h1><p><br></p><h2>La società</h2><p><br></p><p>noto semplicemente come Chelsea, è una società calcistica inglese con sede nella città di Londra, nel borgo di Hammersmith e Fulham, militante nella massima serie del campionato inglese dalla stagione 1989-1990.</p><p><br></p><p>Nella sua storia il Chelsea ha vissuto due diverse epoche di successi: la prima dalla metà degli anni sessanta ai primi anni settanta del XX secolo e la seconda dalla fine degli anni novanta ai giorni nostri. Nel suo palmarès figurano sei campionati inglesi, otto FA Cup, cinque League Cup, quattro Community Shield, una UEFA Champions League, due Europa League, due Coppe delle Coppe e una Supercoppa europeaInsieme alla Juventus, all'Ajax, al Bayern Monaco e al Manchester United è uno dei cinque club che sono riusciti a vincere tutti e tre i maggiori tornei europei calcistici per club ed è, insieme alle medesime squadre, uno dei club europei che ha vinto almeno una volta tutte le competizioni UEFA a cui ha preso parte.Per numero di trofei vinti a livello internazionale è la prima squadra londinese e la terza inglese dopo Liverpool e Manchester United. Nel 2013 è inoltre diventata l'unica squadra europea ad essere stata campione in carica contemporaneamente delle due competizioni UEFA (UEFA Champions League ed Europa League).</p><p><br></p><p><br></p><p><br></p><p><img src=\"https://lh3.googleusercontent.com/xWEMFnXNsD5GLgSv1uKWWjVuwttIwBYN6WluQBklq_bTuN9i3At8Y_4dJo65bmCUPsqmTzc1HuQzAsRqrnQkiO0\" width=\"595\"></p><p><br></p><p><br></p><p><strong>Nel 2009 la rivista Forbes ha indicato il Chelsea come l'ottavo club più ricco del mondo, con un patrimonio stimato intorno agli 800 milioni di dollari.</strong></p><p><br></p><p>Nonostante il nome, la squadra non ha sede nell'omonimo quartiere di Londra, bensì nel vicino borgo di Hammersmith e Fulham. I giocatori vengono soprannominati The Blues (\"i blu\"), per via dei colori sociali del club, o più anticamente The Pensioners (\"i pensionati\"). Il completo tradizionale del club è una maglietta di colore blu reale con abbinati dei pantaloncini dello stesso colore. Il simbolo, invece, è stato quasi sempre un leone cerimoniale con un bastone, che nel 2005 ha subito un piccolo restyling.[4] Il Chelsea è quinto nella classifica dell'affluenza media di tifosi negli stadi inglesi. I suoi sostenitori non vivono rivalità accesissime: la maggiore è quella coi vicini dell'Arsenal, seguita da quelle con gli altri concittadini del Tottenham e del Fulham; a livello nazionale, invece, le sfide più sentite sono quelle contro il Liverpool e il Manchester United.</p><p><br></p><h1><a href=\"https://storage.googleapis.com/pepa-pubilc-images/prod/a3cebf00-80ba-11eb-8040-dd03e82dfda8\" rel=\"noopener noreferrer\" target=\"_blank\">B9zTTNzqJHX.mp4</a></h1>",
+                "slug" : "domani-il-grande-match-chelsea-liverpool",
+                "publish_date" : {
+                    "DDMMYYYY" : "04/11/2020",
+                    "ddddDDMMMMYYYY" : "mercoledì, 04 novembre 2020"
+                },
+                "prev" : "match-up-chelsea-tottneham",
+                "next" : "entra-nel-team-hakim-ziyech"
+            }, 
+            {
+                "is_highlight" : false,
+                "is_draft" : false,
+                "title" : "Entra nel team: Hakim Ziyech",
+                "subtitle" : "Scopri il giocatore!",
+                "category" : "Squadre",
+                "cover_url" : "https://lh3.googleusercontent.com/OQUAYG-suz6RHRKtCWNhx0G-HtwochflN4kxPyFv0Dt5dYgZ335m4MAQHj0eknWunxLx0DlgiyOxLCqxyuoK1A",
+                "author" : "Marco Faro",
+                "body" : "<h2><strong>Scopri il team: Hakim Ziyeck</strong></h2><p><br></p><p><strong>Heerenveen e Twente</strong></p><p>Cresce nelle giovanili dell'Heerenveen, con cui fa il suo esordio da professionista il 2 agosto 2012 in Europa League contro il Rapid Bucarest. Il 17 agosto 2014, dopo aver disputato le prime due partite del nuovo campionato con l'Heerenveen, con cui in totale ha ottenuto 40 presenze e 11 gol in campionato, viene acquistato dal Twente. Concluderà la stagione 2014-2015 con il primato di assist in Eredivisie, oltre a 11 gol nel solo campionato. Nella stagione 2015-2016 invece segna ben 17 gol in 33 presenze in Eredivisie.</p><p><br></p><p><img src=\"https://lh3.googleusercontent.com/LNzjIW-3CHC5ojzKcF4fleR6JpDB0MxENTXh6vq72AT1AmnwH1-EcjiMacRQPG4flfOHiqutzhG6JUlb_pNm9xU\" width=\"446\"></p><p><br></p><p><strong>Ajax</strong></p><p>Il 30 agosto 2016 passa all'Ajax, che lo preleva dal Twente per 11 milioni di euro. Con il club di Amsterdam firma un contratto quinquennale e guadagna immediatamente un posto da titolare nella squadra, per poi concludere la prima stagione con 42 presenze e 10 gol e una finale di Europa League persa. Nella stagione seguente segna complessivamente un gol in meno, ma alla fine dell'annata viene premiato come Ajacide dell'anno. La consacrazione avviene nella stagione 2018-2019, nella quale, con 21 gol e 20 assist realizzati in 49 partite, è uno dei protagonisti della grande scalata dell'Ajax, che arriva fino alla semifinale di UEFA Champions League e vince Coppa dei Paesi Bassi e campionato; il 16 maggio 2019 viene premiato per la seconda volta come Ajacide dell’anno. In estate decide di rimanere all'Ajax, rinnovando il proprio contratto fino al 2022.</p><p><br></p><p><strong>Chelsea</strong></p><p>Il 13 febbraio 2020 Ajax e Chelsea annunciano di aver trovato un accordo per il passaggio del giocatore ai londinesi a partire dalla stagione successiva, in cambio di 40 milioni di euro più 4 milioni di bonus.</p><p><br></p><p><strong>Nazionale</strong></p><p>Dopo aver rappresentato i Paesi Bassi a livello giovanile, nel 2015 opta per la nazionale marocchina, con cui ha disputato il campionato del mondo del 2018[8] e la Coppa d'Africa del 2019.</p><p><br></p><p><img src=\"https://lh3.googleusercontent.com/ZOykG8s61l-6m24YwELJ2DM38v7ycRjvhADiV2eAyzIrEYb_CCNMemMEqYHDOtRUtUwdx0gOUBZHGIZUbC6D6jU\" width=\"206\"></p><h2><a href=\"https://storage.googleapis.com/pepa-pubilc-images/prod/7cc08160-b6ec-11eb-82df-5586ffeea65a\" rel=\"noopener noreferrer\" target=\"_blank\">MODELLO CREDITI SPORTIVI.pdf</a></h2><p><br></p>",
+                "slug" : "entra-nel-team-hakim-ziyech",
+                "publish_date" : {
+                    "DDMMYYYY" : "04/11/2020",
+                    "ddddDDMMMMYYYY" : "mercoledì, 04 novembre 2020"
+                },
+                "prev" : "domani-il-grande-match-chelsea-liverpool",
+                "next" : "entra-nel-team-christian-pulisic"
+            }, 
+            {
+                "is_highlight" : false,
+                "is_draft" : false,
+                "title" : "Entra nel team: Christian Pulisic ",
+                "subtitle" : "Scopri i membri della nostra squadra",
+                "category" : "Tornei",
+                "cover_url" : "https://lh3.googleusercontent.com/LSeqIHTq3woZprjFKG4-yZq9B_78pPfX-P43WnAtjSHipbX9DJxICv5RnE7z8rxDztK-k-k3WO0Mj4jeao8jnfNo",
+                "author" : "Damian Dominella",
+                "body" : "<p><strong>Biografia</strong></p><p>Ha origini croate, essendo il nonno paterno originario dell'isola di Ulbo, in Dalmazia. Nasce in una famiglia di calciatori: in particolare suo padre, Mark Pulisic, giocò per otto anni a livello professionistico con la squadra di soccer indoor dell'Harrisburg Heat, e in seguito continuò ad allenare.</p><p><br></p><p><br></p><p><img src=\"https://lh3.googleusercontent.com/k5rNqNdLVN9mj5xf904O9zyU8vPXdfhHsAgg1CkvQIE8BxAMNeMbaYEszjdmUH6PiPAhDFs0QI1CgeUoTFjQAQ\" width=\"329\"></p><p><br></p><p><br></p><p><strong>Caratteristiche tecniche</strong></p><p>Giocatore dalle notevoli doti tecniche e balistiche,[6] mostra grande maturità e temperamento nonostante la giovane età. Può ricoprire indifferentemente il ruolo di trequartista o esterno offensivo.[7][8] Si caratterizza per rapidità[6] e visione di gioco (infatti è un ottimo assist-man),[6] essendo in grado di abbinare qualità e intelligenza tattica.[4] Abile in dribbling,[6] con le sue finte è bravo a disorientare gli avversari.[6]</p><p><br></p><p><strong>Carriera</strong></p><p><strong>Giovanili</strong></p><p>Quando Christian era ancora un bambino, sua madre, Kelley, ottenne una borsa di studio Fulbright per insegnare per un anno in Inghilterra. La famiglia si trasferì a Tackley, nei pressi della città di Oxford. Qui Christian approfondì la sua passione per il calcio, giocando con la squadra giovanile locale del Brackley Town.[4][5] Quando la famiglia tornò in Pennsylvania, Pulisic continuò a giocare con la società locale del PA Classics.[4][7] Nel 2014, mentre si trovava a disputare un torneo in Turchia con la Nazionale statunitense Under-17, venne notato dagli osservatori del Borussia Dortmund, i quali si trovavano in Turchia per visionare un altro compagno di squadra, Haji Wright, ma gli preferirono Pulisic.[8][9] Venne ingaggiato nel gennaio del 2015, venendo aggregato alla selezione Under-17 e in seguito Under-19 dei gialloneri.</p><p><br></p><p><strong>Borussia Dortmund</strong></p><p>Il 30 gennaio 2016 debuttò nel calcio professionistico, subentrando ad Adrián Ramos nella vittoria casalinga per 2-0 in Bundesliga contro l'Ingolstadt.[10] Il successivo 21 febbraio disputò la sua prima gara da titolare sul campo del Bayer Leverkusen. Il 17 aprile 2016 segnò la sua prima rete in Bundesliga contro l'Amburgo nella vittoria casalinga per 3-0. Diventò il quarto giocatore più giovane a segnare nel campionato tedesco (il più giovane tra gli stranieri).[5] Il 23 aprile, esattamente una settimana dopo il suo primo gol, si ripeté nella partita vinta 3-0 contro lo Stoccarda, diventando il più giovane in assoluto a raggiungere quota due reti.[5] Il 23 gennaio 2017 rinnova fino al giugno 2020 il proprio contratto con la squadra giallonera. L'11 aprile 2017, alla vigilia della partita di Champions League contro il Monaco, un'esplosione investì il pullman su cui viaggiavano lui e la sua squadra.</p><p><br></p><p><img src=\"https://lh3.googleusercontent.com/rSiox-5Tp2oDmO9hS_pbSCe4JHln-g2hLc6r2zNlwl4J9HRxXi-S154MummzeeeIckyfxZkuRkZx7WbqSEF9iCA\" width=\"209\"></p><p><br></p><p><br></p><p><a href=\"https://storage.googleapis.com/pepa-pubilc-images/prod/0c7b3bc0-80b9-11eb-820f-39548158e830\" rel=\"noopener noreferrer\" target=\"_blank\">B9zTTNzqJHX.mp4</a>﻿</p>",
+                "slug" : "entra-nel-team-christian-pulisic",
+                "publish_date" : {
+                    "DDMMYYYY" : "04/11/2020",
+                    "ddddDDMMMMYYYY" : "mercoledì, 04 novembre 2020"
+                },
+                "prev" : "entra-nel-team-hakim-ziyech",
+                "next" : "prosegue-la-partnership-con-befed"
+            }, 
+            {
+                "is_highlight" : false,
+                "is_draft" : false,
+                "title" : "Prosegue la Partnership con Befed",
+                "subtitle" : "Che si riconferma Silver Sponsor per la stagione 2020 / 2021",
+                "category" : "Novità",
+                "cover_url" : "https://lh3.googleusercontent.com/uJDokXpbQnOPBrneFGt5DPh8XpUH4UIFJb9DiOlD5x00qIgtSAfy5t66V7b1McmskLkpCAqYeHe7un6KTtCC_n0J",
+                "author" : "Luca ",
+                "body" : "<p><br></p><p><br></p><p>Continua la partnership con il nostro sponsor <strong>Befed:</strong></p><p><br></p><p><br></p><p>.<img src=\"https://lh3.googleusercontent.com/Z3r5Mi904FL-m_bN9NDp1o-Jhsray_9PTgiAqPQtjkhb5WisL_HktDFfvnrZqGrH0whH0iuyUoywL7QCfJdWFdY\" width=\"424\"></p><p><br></p><p><a href=\"https://storage.googleapis.com/pepa-pubilc-images/prod/f3f64480-9884-11eb-918a-5be755914d73\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">City Camp Estivo.pdf</a>﻿</p>",
+                "slug" : "prosegue-la-partnership-con-befed",
+                "publish_date" : {
+                    "DDMMYYYY" : "04/11/2020",
+                    "ddddDDMMMMYYYY" : "mercoledì, 04 novembre 2020"
+                },
+                "prev" : "entra-nel-team-christian-pulisic",
+                "next" : "esordio-in-prima-squadra-per-roger-maltby"
+            }, 
+            {
+                "is_highlight" : false,
+                "is_draft" : false,
+                "title" : "Esordio in prima squadra per Roger Maltby",
+                "subtitle" : "Debutto tra i grandi per il prodotto del vivaio",
+                "category" : "Partite",
+                "cover_url" : "https://lh3.googleusercontent.com/s61QzyUWr5x1tYgZyeSjRk1Nbu8FR3fceSzA_Tilgms6ZFT5l0PVPz8Ibg98zRLGXYTzE5_AK5OT_H7ie7edLd4",
+                "author" : "Marco Gulli",
+                "body" : "<p>Pur in una serata amara per il risultato finale, è arrivata una grande soddisfazione per il Club. Contro il Liverpool infatti ha fatto il suo esordio ufficiale in prima squadra Matteo Ruggeri, prodotto del settore giovanile nerazzurro!</p><p><br></p><p><br></p><p><img src=\"https://lh3.googleusercontent.com/ruPd3sgQ7OLEl-GF42-i3rupmkFUtCduv-aKYi2SmgncKn8J1-Fc2nW73hZHmdRVVJOIq6Ajyx5nkXs1KZQV1gW1\"></p><p><br></p><p><br></p><p>Bergamasco di Zogno, classe 2002, Matteo ha compiuto 18 anni lo scorso 11 luglio e veste la maglia nerazzurra dal 2011, da quando cioè aveva 9 anni. Da allora ha scalato tutti i gradini fino a coronare il sogno di tutti i bambini che cominciano a tirare calci a un pallone: arrivare a giocare una partita di UEFA Champions League. Ed è successo contro uno dei club più forti e prestigiosi dell’intero panorama calcistico mondiale prendendo il posto di Mojica nel finale di partita . Un momento perciò che il ragazzo della Valle Brembana si ricorderà per sempre</p><p><br></p><h2><a href=\"https://it.wikipedia.org/wiki/Chelsea_Football_Club\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Leggi di più cliccando qui</strong></a></h2>",
+                "slug" : "esordio-in-prima-squadra-per-roger-maltby",
+                "publish_date" : {
+                    "DDMMYYYY" : "04/11/2020",
+                    "ddddDDMMMMYYYY" : "mercoledì, 04 novembre 2020"
+                },
+                "prev" : "prosegue-la-partnership-con-befed",
+                "next" : null
+            }
+        ],
+        "preenrolled" : {
+            "image_url" : "https://lh3.googleusercontent.com/8NFR89smR1Nuw5BdMx1gBbye3haXEEMDnb4ZAGjZMDXO40a-NTeOnm0aQwKICLqRg6mDN5q8H0ftGgWMRzBIq-YX",
+            "url" : "https://preiscrizioni.golee.it/chelsea-football-club",
+            "subtitle" : "Cosa aspetti? Iscriviti e cresci con i migliori Coach della Premier League nei nostri campi!"
+        },
+        "intro" : {
+            "background_url" : "https://lh3.googleusercontent.com/X2MPoy-OG1vJtDF2rVPVinsk09N2RKfGpEtVLUiU1lcNNmYUd_NdfAbG4Iojas9WEbwZikjbQ3hFSGFJpwdL5c0",
+            "title" : "Golee Sito WEB",
+            "subtitle" : "Benvenuto nel nuovo sito della tua Società Sportiva powered by Golee! Con pochi semplici click inserisci tutte le informazioni e tieni i tuoi tesserati sempre precisi"
+        },
+        "teams_for_menu" : [ 
+            {
+                "name" : "1 Categoria",
+                "slug" : "1-categoria",
+                "hidden" : false
+            }, 
+            {
+                "name" : "2 CategoriaB",
+                "slug" : "2-categoriab",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Allievi Under 17 Provinciali",
+                "slug" : "allievi-under-17-provinciali",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Allievi Under 17 RegionaliD",
+                "slug" : "allievi-under-17-regionalid",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Allievi Under 18 Inter-Provinciali",
+                "slug" : "allievi-under-18-inter-provinciali",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Asssaaaaaa",
+                "slug" : "asssaaaaaa",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Basket",
+                "slug" : "basket",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Beretti",
+                "slug" : "beretti",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Esordienti Misti",
+                "slug" : "esordienti-misti",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Giovanissimi Under 15 ProvincialiD",
+                "slug" : "giovanissimi-under-15-provincialid",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Juniores Under 19 NazionaliC",
+                "slug" : "juniores-under-19-nazionalic",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Juniores Under 19 ProvincialiB",
+                "slug" : "juniores-under-19-provincialib",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Marco",
+                "slug" : "marco",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Pallavololo",
+                "slug" : "pallavololo",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Primi Calci Primo Anno",
+                "slug" : "primi-calci-primo-anno",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Primi Calci Secondo AnnoC",
+                "slug" : "primi-calci-secondo-annoc",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Pulcini Primo Anno",
+                "slug" : "pulcini-primo-anno",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Serie B Femminile",
+                "slug" : "serie-b-femminile",
+                "hidden" : false
+            }, 
+            {
+                "name" : "Serie C FemminileC",
+                "slug" : "serie-c-femminilec",
+                "hidden" : false
+            }, 
+            {
+                "name" : "jxjxjhjh",
+                "slug" : "jxjxjhjh",
+                "hidden" : false
+            }
+        ],
+        "teams" : [ 
+            {
+                "team_id" : 28641,
+                "team_name" : "1 Categoria",
+                "team_slug" : "1-categoria",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28633,
+                "team_name" : "2 CategoriaB",
+                "team_slug" : "2-categoriab",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {
+                    "GIO" : [ 
+                        {
+                            "name" : "Andrea",
+                            "surname" : "B.",
+                            "birthdate" : "10/10/2002",
+                            "avatar_url" : null
+                        }, 
+                        {
+                            "name" : "Elia",
+                            "surname" : "F.",
+                            "birthdate" : "28/10/2002",
+                            "avatar_url" : null
+                        }, 
+                        {
+                            "name" : "Andrea",
+                            "surname" : "S.",
+                            "birthdate" : "16/08/2002",
+                            "avatar_url" : null
+                        }, 
+                        {
+                            "name" : "Samuele",
+                            "surname" : "V.",
+                            "birthdate" : "02/12/2002",
+                            "avatar_url" : null
+                        }
+                    ]
+                },
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28629,
+                "team_name" : "Allievi Under 17 Provinciali",
+                "team_slug" : "allievi-under-17-provinciali",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [ 
+                    {
+                        "_id" : "32a055e6-18df-4f1c-8f14-71da0d4ee5ac",
+                        "name" : "Monica",
+                        "surname" : "Cinguetti",
+                        "role" : "Allenatore in seconda, Allenatore",
+                        "avatar_url" : null
+                    }, 
+                    {
+                        "_id" : "6bc94409-06b4-4bea-b0bb-ea499a0947e2",
+                        "name" : "Roberto",
+                        "surname" : "Colombo",
+                        "role" : "Allenatore",
+                        "avatar_url" : ""
+                    }
+                ],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28631,
+                "team_name" : "Allievi Under 17 RegionaliD",
+                "team_slug" : "allievi-under-17-regionalid",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [ 
+                    {
+                        "_id" : "69e05928-5d78-468e-b1f1-3042e0e515f8",
+                        "name" : "Marco",
+                        "surname" : "Domeniconi",
+                        "role" : "Allenatore, Preparatore Atletico, Preparatore Portieri",
+                        "avatar_url" : "https://lh3.googleusercontent.com/90PIUuqjBOaWWUp4o2BU6Kl-9INtH9ZgSy_XD7RmISXAwpa6Lsc91COAXWDvcJ7pV8at9jgsYeUQY7sWMVL1ZeVzHinvkLj5ee40"
+                    }
+                ],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28639,
+                "team_name" : "Allievi Under 18 Inter-Provinciali",
+                "team_slug" : "allievi-under-18-inter-provinciali",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28646,
+                "team_name" : "Asssaaaaaa",
+                "team_slug" : "asssaaaaaa",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28638,
+                "team_name" : "Basket",
+                "team_slug" : "basket",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [ 
+                    {
+                        "_id" : "135c9283-5521-49e5-81de-cea8320bfc97",
+                        "name" : "Marco",
+                        "surname" : "Molli",
+                        "role" : "Allenatore",
+                        "avatar_url" : null
+                    }
+                ],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28648,
+                "team_name" : "Beretti",
+                "team_slug" : "beretti",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {
+                    "GIO" : [ 
+                        {
+                            "name" : "Marco",
+                            "surname" : "M.",
+                            "birthdate" : "04/05/2022",
+                            "avatar_url" : null
+                        }
+                    ]
+                },
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28643,
+                "team_name" : "Esordienti Misti",
+                "team_slug" : "esordienti-misti",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28632,
+                "team_name" : "Giovanissimi Under 15 ProvincialiD",
+                "team_slug" : "giovanissimi-under-15-provincialid",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28636,
+                "team_name" : "Juniores Under 19 NazionaliC",
+                "team_slug" : "juniores-under-19-nazionalic",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28630,
+                "team_name" : "Juniores Under 19 ProvincialiB",
+                "team_slug" : "juniores-under-19-provincialib",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28645,
+                "team_name" : "Marco",
+                "team_slug" : "marco",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28637,
+                "team_name" : "Pallavololo",
+                "team_slug" : "pallavololo",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [ 
+                    {
+                        "_id" : "1774b5b8-3a53-4be2-8fd3-f88a33ce4b31",
+                        "name" : "Adsa",
+                        "surname" : "Nuoviz",
+                        "role" : "Allenatore, Preparatore Atletico",
+                        "avatar_url" : ""
+                    }, 
+                    {
+                        "_id" : "58d3b877-590c-4913-9a6e-e042f321b544",
+                        "name" : "Giorgio",
+                        "surname" : "Rospetti",
+                        "role" : "Preparatore Atletico, Allenatore, Preparatore Portieri",
+                        "avatar_url" : "https://lh3.googleusercontent.com/S9DtvN9AXrAOVfEBWdWSDlaaV3PBxKB8TU8VmUp2Vte7WdvPs3J7_cNN7ne4HsiyNhsg_9WOBkNFsxZFjhIROg0"
+                    }
+                ],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28634,
+                "team_name" : "Primi Calci Primo Anno",
+                "team_slug" : "primi-calci-primo-anno",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28635,
+                "team_name" : "Primi Calci Secondo AnnoC",
+                "team_slug" : "primi-calci-secondo-annoc",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {
+                    "GIO" : [ 
+                        {
+                            "name" : "Mario",
+                            "surname" : "R.",
+                            "birthdate" : "26/12/2021",
+                            "avatar_url" : null
+                        }
+                    ]
+                },
+                "tech_staffs" : [ 
+                    {
+                        "_id" : "8fbd6798-5e25-4dc9-9bbf-9b14de0692e0",
+                        "name" : "Teo",
+                        "surname" : "Giardi",
+                        "role" : "Allenatore, Fisioterapista/Massaggiatore",
+                        "avatar_url" : "https://lh3.googleusercontent.com/3nbVwOK9yca59xkdZFPiShUrnC_gANuzJMBhfR-nPgW5pQoz8RSVXnJ5LOQ3V_oVJlTjI9yFn-eWzztwjevi9CI"
+                    }
+                ],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28644,
+                "team_name" : "Pulcini Primo Anno",
+                "team_slug" : "pulcini-primo-anno",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28647,
+                "team_name" : "Serie B Femminile",
+                "team_slug" : "serie-b-femminile",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28640,
+                "team_name" : "Serie C FemminileC",
+                "team_slug" : "serie-c-femminilec",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }, 
+            {
+                "team_id" : 28642,
+                "team_name" : "jxjxjhjh",
+                "team_slug" : "jxjxjhjh",
+                "permissions" : {
+                    "name" : "SHORTSURNAME",
+                    "birthdate" : "HIDE",
+                    "show_result" : true,
+                    "show_standing" : false
+                },
+                "athletes" : {},
+                "tech_staffs" : [],
+                "results" : [],
+                "standing" : []
+            }
+        ],
+        "club_history" : {
+            "_id" : "5fd1fcc56561f066cd7e408c",
+            "image_url" : "https://lh3.googleusercontent.com/DKyLwO8oxrZZLt_jbgiszdgNCD1bGNGeYTrNiEla13YepyUF8y1agA9zxaDQGEicklzR3FDPOlT9srCICI7XSXrF16YvUoDPZMw",
+            "body" : "<h1>LA VOSTRA PASSIONE è LA NOSTRA STORIA.</h1><p>CHELSEA FC</p><p><br></p><h1><strong>facciamo dei test</strong></h1><p>Chelsea Football Club&nbsp;is an English professional&nbsp;<span style=\"color: rgb(11, 0, 128);\">football</span>&nbsp;club based in&nbsp;<span style=\"color: rgb(11, 0, 128);\">Fulham</span>,&nbsp;<span style=\"color: rgb(11, 0, 128);\">London</span>. Founded in 1905, the club competes in the&nbsp;<span style=\"color: rgb(11, 0, 128);\">Premier League</span>, the top division of&nbsp;<span style=\"color: rgb(11, 0, 128);\">English football</span>. Chelsea are among&nbsp;<span style=\"color: rgb(11, 0, 128);\">England's most successful clubs</span>, having won over thirty competitive honours, including six league titles and six European trophies. Their home ground is&nbsp;<span style=\"color: rgb(11, 0, 128);\">Stamford Bridge</span>.</p><p><br></p><p>Chelsea won their first major honour, the&nbsp;<span style=\"color: rgb(11, 0, 128);\">League Championship</span>, in&nbsp;<span style=\"color: rgb(11, 0, 128);\">1955</span>. The club won the&nbsp;<span style=\"color: rgb(11, 0, 128);\">FA Cup</span>&nbsp;for the first time in&nbsp;<span style=\"color: rgb(11, 0, 128);\">1970</span>&nbsp;and their first European honour, the&nbsp;<span style=\"color: rgb(11, 0, 128);\">UEFA Cup Winners' Cup</span>, in&nbsp;<a href=\"https://en.wikipedia.org/wiki/1971_European_Cup_Winners%27_Cup_Final\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(11, 0, 128);\">1971</a>. After a period of decline in the late 1970s and 1980s, the club enjoyed a revival in the 1990s and had more success in cup competitions. The past two decades have been the most successful in Chelsea's history: they won five of its six league titles and the&nbsp;<span style=\"color: rgb(11, 0, 128);\">UEFA Champions League</span>&nbsp;during this period.<a href=\"https://en.wikipedia.org/wiki/Chelsea_F.C.#cite_note-5\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(11, 0, 128);\"><sup>[5]</sup></a>&nbsp;Chelsea are one of&nbsp;<span style=\"color: rgb(11, 0, 128);\">five clubs</span>&nbsp;to have won all three of UEFA's main club competitions, and the only London club to have won the Champions League. Esempio aggiornamento chelsea</p>",
+            "club" : 18613,
+            "created_at" : "10:47 10/12/2020",
+            "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+            "__v" : 0,
+            "id" : "5fd1fcc56561f066cd7e408c"
+        },
+        "management_staff" : [ 
+            {
+                "_id" : "b5be07c0-0e05-48f5-a523-39fc32f2b1b3",
+                "name" : "Mario",
+                "surname" : "Merola",
+                "role" : "Direttivo",
+                "avatar_url" : null
+            }, 
+            {
+                "_id" : "ffd6faa4-ca72-49c9-84ea-8bc9097aceb4",
+                "name" : "Marco",
+                "surname" : "Prova",
+                "role" : "Vice Presidente",
+                "avatar_url" : null
+            }, 
+            {
+                "_id" : "27bd919e-f0d5-466e-8494-4adb6441b673",
+                "name" : "Michele",
+                "surname" : "Rossi",
+                "role" : "Direttore Tecnico",
+                "avatar_url" : null
+            }
+        ],
+        "affiliation" : {
+            "link" : "https://golee.it/",
+            "logo" : "https://lh3.googleusercontent.com/ABJ9GLt7jHKbYhqHzT-3Bb0SW8_iqL0cdP3eO5Ua-uz1u3Om4M_iZJWkoe08oKFOH3cdRXtMwiR4Ga4EfumlbuVzaewOAkSB0big",
+            "name" : "Golee"
+        },
+        "sponsors" : [ 
+            {
+                "_id" : "5fa2d2eb1d3d2d7d16bba213",
+                "name" : "Plus500",
+                "link" : "https://www.plus500.it/",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/pow6lRVRy_gy_N9sbahTDX9dP_tPGaiW-L34HqGsqC2_qpy2MVwwQHHri3xy4-bhrcBmQvmSgdLBBhhSG5sziCM",
+                "club" : 18613,
+                "created_at" : "16:12 04/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fa2d2eb1d3d2d7d16bba213"
+            }, 
+            {
+                "_id" : "5fa2d312b2eaa2d4ce40a830",
+                "name" : "Joma",
+                "link" : "https://www.joma-sport.com/it",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/dKkRragi0FoZvI_R5l1-3vBr3jxU9tLvJkwFF3aPpgbL81RP0bcbIAyXQ7oWu4CCyYRx40sU01jKqyu3PCxIKhY",
+                "club" : 18613,
+                "created_at" : "16:13 04/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fa2d312b2eaa2d4ce40a830"
+            }, 
+            {
+                "_id" : "5fa2d35d1d3d2d8db2bba214",
+                "name" : "Gewiss",
+                "link" : "https://www.gewiss.com/it/it",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/YfkFi9hKj7g9Ob4Im4712ghyH9s6AiQkc8DsHIWh9ZHXkSNoMZSjsdRXLUptyIjDv8Vet3zTU9IpxJFeIBE3Pe4",
+                "club" : 18613,
+                "created_at" : "16:14 04/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fa2d35d1d3d2d8db2bba214"
+            }, 
+            {
+                "_id" : "5fa2d3b9b2eaa2475f40a831",
+                "name" : "Brembo",
+                "link" : "https://www.brembo.com/it/",
+                "category" : "SECONDARY",
+                "logo_url" : "https://lh3.googleusercontent.com/JLiZaKQaQtSTlga9PoUaOqltU-IjoDprV_cU1hIy2D6sCItlei1c-Wcyyeza_nxiPWp2QCLXfUqSne910u_f6oFA",
+                "club" : 18613,
+                "created_at" : "16:15 04/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fa2d3b9b2eaa2475f40a831"
+            }, 
+            {
+                "_id" : "5fa2d3f77e99e57e70d5f60a",
+                "name" : "Riocenter",
+                "link" : "https://www.riocenter.com.br/",
+                "category" : "SECONDARY",
+                "logo_url" : "https://lh3.googleusercontent.com/Wnt8-7xShoIhVMkfU0257anBI0vhkhPVz-mHKWRkcqWxAz-9tm8AnI7Qm51E3lroFaa1OVioy1X-F3A2tUWIVA",
+                "club" : 18613,
+                "created_at" : "16:16 04/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fa2d3f77e99e57e70d5f60a"
+            }, 
+            {
+                "_id" : "5fa2d4321d3d2dc660bba215",
+                "name" : "Radici Group",
+                "link" : "https://www.radicigroup.com/it",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/LIHZdvFiAPA4t6bTpn8FaXWnDg-ChCW_a4YM3APUn4MAaqURwFcy7ghukCRyNS03eyG3NHCK8G6KaCJ_y51ow5cw",
+                "club" : 18613,
+                "created_at" : "16:17 04/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fa2d4321d3d2dc660bba215"
+            }, 
+            {
+                "_id" : "5fa2d467b2eaa2cad340a832",
+                "name" : "Automha",
+                "link" : "https://www.automha.it/",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/9x30VK_QNsdoHOWTIlEckH1W-n9_vegmBc-xqr0m-nyzsDJncqRVL1WWnyoeGbC3fIWzKc_ON1gIs17EAQQtVsQ",
+                "club" : 18613,
+                "created_at" : "16:18 04/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fa2d467b2eaa2cad340a832"
+            }, 
+            {
+                "_id" : "5fa2d525b2eaa22d0140a833",
+                "name" : "Nike",
+                "link" : "https://www.nike.com/it/",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/lNp3X0VvLIrFjEgzUZB_NZC53kkmGAqfoWMWWgzIUtHiCrVIFm7r62Ad5tMpq0Sg3RxOdE_m1NcfpAQkqg1LMw",
+                "club" : 18613,
+                "created_at" : "16:21 04/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fa2d525b2eaa22d0140a833"
+            }, 
+            {
+                "_id" : "5fbd381820261d228e8110ad",
+                "name" : "Adidas",
+                "link" : "https://www.adidas.it/?cm_mmc=AdieSEM_Google-_-adidas-Brand-B-Exact-_-General-Pure%20Brand-X-General-_-adidas&cm_mmca1=IT&cm_mmca2=e&ds_agid=58700000470333458&ds_kid=43700006852592935&ds_rl=1249035&gclid=CjwKCAiA-_L9BRBQEiwA-bm5fubh5okTfkPM3VLrMTe4CoHdfjng3kc9SBJthkjOLspScK3aYiCWyRoCzjcQAvD_BwE&gclsrc=aw.ds",
+                "category" : "SECONDARY",
+                "logo_url" : "https://lh3.googleusercontent.com/VpHbWhZc580fq_LjRymqkO-2w1guaIDY0KxVNm4jOjJVnn0tlbHUl3gUTfwhBWMLSQgrPI_W0101bBK9tfpbM0c",
+                "club" : 18613,
+                "created_at" : "16:43 24/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fbd381820261d228e8110ad"
+            }, 
+            {
+                "_id" : "5fbd386020261d05b78110ae",
+                "name" : "Zoho connect",
+                "link" : "https://www.zoho.com/it/connect/",
+                "category" : "SECONDARY",
+                "logo_url" : "https://lh3.googleusercontent.com/EmH_53m0hKCWXKjQ4JxSw7e4X4d62ZDbusclVbpnx1RItvEUWmie-clI-L-qUBEi3bA0nP4AhqL1ESs7Rea0rZg",
+                "club" : 18613,
+                "created_at" : "16:44 24/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fbd386020261d05b78110ae"
+            }, 
+            {
+                "_id" : "5fbd3f8b4820ba2b99f97575",
+                "name" : "Champions League",
+                "link" : "https://it.uefa.com/uefachampionsleague/",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/iX2lKZbNBGNAUpi1wzpnfTTrc-RGz6VtjRYO8nXw4jHQwKUZ2Ilbm9av-y9vSleTMKscRayI9tP_y6iePtA8fA",
+                "club" : 18613,
+                "created_at" : "17:14 24/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fbd3f8b4820ba2b99f97575"
+            }, 
+            {
+                "_id" : "5fbd3fc04820ba7f77f97576",
+                "name" : "Golee",
+                "link" : "https://golee.it/",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/zqfNHkOtDnUAWNbOacFxHOOEEYJ3aLLNo3ioDj7K77CnFKqdjKlKQP_bnHPTtkdMhRCXqbLb7J5ZfSAUjTEINA",
+                "club" : 18613,
+                "created_at" : "17:15 24/11/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fbd3fc04820ba7f77f97576"
+            }, 
+            {
+                "_id" : "5fc9247b09482627bc402d2c",
+                "name" : "golee",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/PX3bJg77qDOEbDhWSYpRvWm0CC_EEp7UBAq98zXmJ6qXQKIcvEfQ7tJo2MFP-s7PW5EGnnvO-7aPiEHQDP14cT4",
+                "club" : 18613,
+                "created_at" : "17:46 03/12/2020",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "5fc9247b09482627bc402d2c"
+            }, 
+            {
+                "_id" : "6082b2db0520556ae00b6561",
+                "name" : "Milan academy",
+                "category" : "SECONDARY",
+                "logo_url" : "https://lh3.googleusercontent.com/Nwp9VnX8XAgf60JUnqznUS3kyUGEkRFBPtcm_6Grm5bXt2TuYlkTWXsUe6dVXp_EjOuN8FxZLwFn43X12i3w6D8UAuakxovaxgQ",
+                "club" : 18613,
+                "created_at" : "11:43 23/04/2021",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "6082b2db0520556ae00b6561"
+            }, 
+            {
+                "_id" : "60910db73b64aa9f6ffd351f",
+                "name" : "Golee",
+                "link" : "https://golee.it/",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/w4HaqBiAhB6vKKnv86sZnK-qFeKxqMhsu226YnBF7PAOIKFhGm_oW4nB86DShDL0Q5H2k30fzIlSCLEhUv_k4zjNbWXLJazuQ0Ng",
+                "club" : 18613,
+                "created_at" : "09:02 04/05/2021",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "60910db73b64aa9f6ffd351f"
+            }, 
+            {
+                "_id" : "6091662234deef66c1e4aba9",
+                "name" : "golee",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/c6sLd1A5VshN-QSLlTRht_hJv3oPKRSyoYDoB2evvjrwINP1LqmxxMg6zVQIr7v5VmSLXuWG3b9Mjmv_k0ZE7s_NE8PHvGuc7k5f",
+                "club" : 18613,
+                "created_at" : "15:20 04/05/2021",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "6091662234deef66c1e4aba9"
+            }, 
+            {
+                "_id" : "609537294afc9644677cd6a7",
+                "name" : "roma academy",
+                "category" : "PRIMARY",
+                "logo_url" : "https://lh3.googleusercontent.com/6ssijYZUmoRZUtDYtM01vXApLooq60SgRaAcUNOlR06L8GDf-LpzFxHSrJ-CR26Ccx2SqOIfVR47lamoMgCY0nOJzvTUiRy3j0Gd6A",
+                "club" : 18613,
+                "created_at" : "12:48 07/05/2021",
+                "created_by" : "a0e504a0-1ea6-11eb-a60a-21e9a7d939a9",
+                "__v" : 0,
+                "id" : "609537294afc9644677cd6a7"
+            }
+        ]
+    },
+    "store_url" : "https://store.golee.it/squadre/golee",
+    "is_undermaintenance" : false,
+    "text_on_second_color" : "#034694",
+    "text_on_first_color" : "#fff",
+    "second_color" : "#ffcd00",
+    "first_color" : "#0c5289",
+    "subpath" : "/",
+    "domain" : "https://chelsea.golee.it",
+    "club_name" : "Chelsea Football",
+    "logo_url" : "https://lh3.googleusercontent.com/7MjsELrLjP-S33LDuzfxt_6AiDdTfSO3CgDvxdsnlpWEVz7-YE8Zlr0ySyqa5Z-YJw0_3lkDKUqcjVs9hBihMPnfiOAny---_6g"
+}
