@@ -15,6 +15,8 @@ sass:
 
 permalink: pretty
 
+domain: gtoselli.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://gtoselli.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /test-golee-web/      # place folder name if the site is served in a subfolder
 
 page_gen-dirs: true # uncomment, if you prefer to generate named folders
